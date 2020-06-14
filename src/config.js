@@ -6,7 +6,7 @@ module.exports = {
     'Abhishek Shandilya, full-stack engineer, software engineer, front-end engineer, web developer, javascript, react, django',
   siteUrl: 'https://abhishekshandilya.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-74389110-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Abhishek Shandilya',
   location: 'Bengaluru, India',
